@@ -5,3 +5,18 @@
 /* header */
 header{background-color: lightskyblue;
 }
+
+section p{padding-top: 30px;
+          padding-bottom: 30px;
+          
+}
+table{padding-top: 30px;
+      padding-bottom: 30px;
+}
+thead{
+  background-color: aqua;
+}
+
+span{background-color: yellow;
+
+}
